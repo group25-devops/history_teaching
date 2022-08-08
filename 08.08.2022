@@ -1,0 +1,135 @@
+   33  mkdir vishal
+   34  cd vishal
+   35  clear
+   36  touch 1..2
+   37  ls
+   38  rm -rf *
+   39  touch file1 file2 asdfa
+   40  touch afasd as df asd fas df asd fas df as df asdf sa df as df asdf as
+   41  ls
+   42  ls la
+   43  la
+   44  clar
+   45  clear
+   46  ls -ltr
+   47  ls
+   48  git config --global user.name vishalk17
+   49  git config --global user.email vishalkapadi95@gmail.com
+   50  clear
+   51  git status
+   52  clear
+   53  cd
+   54  cd vishal
+   55  ls
+   56  git init
+   57  git branch
+   58  clear
+   59  git status
+   60  la
+   61  clear
+   62  git status
+   63  git add *
+   64  git status
+   65  clear
+   66  git commit
+   67  vi sa
+   68  git status
+   69  git add sa
+   70  git status
+   71  clear
+   72  git status
+   73  git commit
+   74  git log
+   75  clear
+   76  git staus
+   77  git status
+   78  clear
+   79  ls
+   80  git status
+   81  git branch
+   82  git remote add atul https://github.com/group25-devops/sample
+   83  git remote -v
+   84  clear
+   85  git remote -v
+   86  git remote add suraj https://github.com/group25-devops/xyz
+   87  clear
+   88  git remote -v
+   89  clear
+   90  ls
+   91  git remote -0v
+   92  clear
+   93  git remote -v
+   94  git branch
+   95  git push suraj master
+   96  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
+   97  clear
+   98  git push
+   99  clear
+  100  ls
+  101  git swtaus
+  102  clear
+  103  git status
+  104  git remote -v
+  105  git push -u suraj master
+  106  clear
+  107  git branch
+  108  man git
+  109  man git push
+  110  clear
+  111  ls
+  112  cd ..
+  113  clear
+  114  ls
+  115  rm -rf vishal
+  116  clear
+  117  git clone https://github.com/group25-devops/xyz desktop/rajas/sample_repo
+  118  ls
+  119  cd desk*
+  120  ls
+  121  cd rajas
+  122  ls
+  123  cd *
+  124  ls
+  125  ls -ltr
+  126  cler
+  127  clear
+  128  cd ../../..
+  129  ls
+  130  rm -rf desktop
+  131  ls
+  132  git clone https://github.com/group25-devops/xyz sample_source
+  133  clear
+  134  ls
+  136  ls
+  137  git branch
+  138  git log
+  139  clear
+  140  ls
+  141  git status
+  142  git log
+  143  clear
+  144  git push origin master
+  145  clear
+  146  git remote -v
+  147  clear
+  148  git branch
+  149  git checkout -b stable
+  150  clear
+  151  git branch
+  152  git branch -d master
+  153  clear
+  154  git branch
+  155  clear
+  156  git branch
+  157  clear
+  158  git branch
+  159  git remote -v
+  160  clear
+  161  git branch
+  162  git remote -v
+  163  git remote add rajas https://github.com/group25-devops/sample
+  164  git remote -v
+  165  clear
+  166  git branch
+  167  git remote -v
+  168  git push -u rajas stable
